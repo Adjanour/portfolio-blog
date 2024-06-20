@@ -1,0 +1,8 @@
+POST http://localhost:3000/blog
+Content-Type: application/json
+
+{
+    "title":"first blog",
+    "content":"This is the content of the first blog post.",
+    "date":"2021-09-01"
+}
